@@ -12,7 +12,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#fff</string>
+				<string>#FFFFFF</string>
 				<key>caret</key>
 				<string>#A7A7A7</string>
 				<key>foreground</key>
@@ -25,6 +25,7 @@
 				<string>#FFEE96</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
@@ -38,6 +39,7 @@
 				<string>#999999</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Constant</string>
@@ -49,6 +51,7 @@
 				<string>#BDA88A</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Entity</string>
@@ -60,6 +63,7 @@
 				<string>#147585</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -71,7 +75,8 @@
 				<string>#840021</string>
 			</dict>
 		</dict>
-	<dict>
+
+		<dict>
 			<key>name</key>
 			<string>Function (definition)</string>
 			<key>scope</key>
@@ -81,9 +86,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#888888</string>
+				<string>#147585</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Number</string>
@@ -97,6 +103,7 @@
 				<string>#A5C261</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>String interpolation</string>
@@ -110,6 +117,7 @@
 				<string>#888888</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -120,7 +128,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D0D0FF</string>
+				<string>#3913BF</string>
 			</dict>
 		</dict>
 
@@ -147,9 +155,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#40078C</string>
+				<string>#915911</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -163,6 +172,7 @@
 				<string>#059927</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Support</string>
@@ -176,6 +186,7 @@
 				<string>#9B859D</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -187,6 +198,7 @@
 				<string>#7587A6</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Invalid â€“ Deprecated</string>
@@ -200,6 +212,7 @@
 				<string>#D2A8A1</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Invalid â€“ Illegal</string>
@@ -213,12 +226,14 @@
 				<string>#F8F8F8</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>-----------------------------------</string>
 			<key>settings</key>
 			<dict/>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ Embedded Source</string>
@@ -227,9 +242,10 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B0B3BA14</string>
+				<string>#ffffdf</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ Embedded Source (Bright)</string>
@@ -238,9 +254,10 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B1B3BA21</string>
+				<string>#FFFFDF</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ Entity inherited-class</string>
@@ -254,6 +271,7 @@
 				<string>#9B5C2E</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ String embedded-source</string>
@@ -267,6 +285,7 @@
 				<string>#DAEFA3</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ String constant</string>
@@ -278,6 +297,7 @@
 				<string>#DDF2A4</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ String.regexp</string>
@@ -291,6 +311,7 @@
 				<string>#E9C062</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ String.regexp.Â«specialÂ»</string>
@@ -302,6 +323,7 @@
 				<string>#CF7D34</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ String variable</string>
@@ -313,6 +335,7 @@
 				<string>#8A9A95</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>â™¦ Support.function</string>
@@ -323,22 +346,10 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DAD085</string>
+				<string>#CC7B1E</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>â™¦ Support.constant</string>
-			<key>scope</key>
-			<string>support.constant</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#CF6A4C</string>
-			</dict>
-		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>âœ˜ Doctype/XML Processing</string>
@@ -350,6 +361,7 @@
 				<string>#dddddd</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>âœ˜ Meta.tag.Â«allÂ»</string>
@@ -361,6 +373,7 @@
 				<string>#AC885B</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css tag-name</string>
@@ -374,6 +387,7 @@
 				<string>#CDA869</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css:pseudo-class</string>
@@ -385,6 +399,7 @@
 				<string>#8F9D6A</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css#id</string>
@@ -396,6 +411,7 @@
 				<string>#8B98AB</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css.class</string>
@@ -407,6 +423,7 @@
 				<string>#9B703F</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css property-name:</string>
@@ -418,6 +435,7 @@
 				<string>#A39161</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css property-value;</string>
@@ -429,6 +447,7 @@
 				<string>#87733D</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css @at-rule</string>
@@ -440,6 +459,7 @@
 				<string>#8693A5</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css additional-constants</string>
@@ -448,9 +468,10 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D40CE8</string>
+				<string>#9E430B</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Â§ css constructor.argument</string>
@@ -462,6 +483,7 @@
 				<string>#8F9D6A</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>âŽ‡ diff.header</string>
@@ -477,6 +499,7 @@
 				<string>#F8F8F8</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>âŽ‡ diff.deleted</string>
@@ -490,6 +513,7 @@
 				<string>#F8F8F8</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>âŽ‡ diff.changed</string>
@@ -503,6 +527,7 @@
 				<string>#F8F8F8</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>âŽ‡ diff.inserted</string>
@@ -516,6 +541,7 @@
 				<string>#F8F8F8</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Markup: List</string>
@@ -527,6 +553,7 @@
 				<string>#F9EE98</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Markup: Heading</string>
@@ -538,6 +565,7 @@
 				<string>#CF6A4C</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>tag name</string>
@@ -546,7 +574,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C3530D</string>
+				<string>#9E430B</string>
 			</dict>
 		</dict>
 	</array>
